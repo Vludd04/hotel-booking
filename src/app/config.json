@@ -1,0 +1,4 @@
+{
+    "apiEndPoint": "https://hotel-24-firebase-default-rtdb.firebaseio.com/",
+    "isFireBase": true
+}
