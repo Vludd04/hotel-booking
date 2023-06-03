@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Thompson Central Park",
+      "address": "119 West 56th Street",
+      "stars": 5,
+      "cityName": "newyork",
+      "description": "A New York Classic, Remastered. The property offers a combination of suites and rooms with varying views and low floor options. Designed to accommodate work and play, our rooms have been upgraded with refined finishes — warm woods, sleek marble, jewel-toned pops — and unexpected touches, like sculptural ombré lighting, ribbed wall detailing and an inventive geometric étagére. And starting in early 2022, our guests can also expect an elevated New York experience from our Upper Stories collection of rooms and suites perched on our topmost guest floors.",
+      "highlights": ["Free WiFi","Private Parking","Non-smoking rooms","Fitness center","Restaurant","24-hour front desk","Bar"],
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F1.jpg?alt=media&token=729bdf9e-3fb1-4dba-a90b-c6223a41f436","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F2.jpg?alt=media&token=173e5e4c-4505-44fa-abeb-072a88dc21dd","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F3.jpg?alt=media&token=bc2eec70-1361-492a-9653-752d65351926"],
+      "rooms": ["room1", "room2"]
+    }
+]

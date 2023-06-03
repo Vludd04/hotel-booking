@@ -1,0 +1,5 @@
+[
+    { "_id": "ALNPJ1B6VJKYILVTHQ88RW5P", "link": "vancouver", "name": "Vancouver", "photo": "https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/vancouver-2.jpg?alt=media&token=78109081-5540-4def-8872-deac54b06c65" },
+    { "_id": "B8O3KOMUW6LMT0WGR4IVRK6C", "link": "toronto", "name": "Toronto", "photo": "https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/toronto.jpg?alt=media&token=ecf2699c-d717-44c6-aea4-911c13ab671a" },
+    { "_id": "IF7LF8IPDD4VDT2CZB14MEC8", "link": "newyork", "name": "New York", "photo": "https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/new-york.jpg?alt=media&token=30b77f70-96b4-40da-bbed-786a42ecf092" }
+]
