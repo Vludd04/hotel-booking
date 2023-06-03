@@ -1,0 +1,182 @@
+[
+    {
+      "_id": "YVN1UOX5TSKAT8HREQHJ1TRN",
+      "address": "119 West 56th Street",
+      "cityName": "newyork",
+      "description": "A New York Classic, Remastered. The property offers a combination of suites and rooms with varying views and low floor options. Designed to accommodate work and play, our rooms have been upgraded with refined finishes — warm woods, sleek marble, jewel-toned pops — and unexpected touches, like sculptural ombré lighting, ribbed wall detailing and an inventive geometric étagére. And starting in early 2022, our guests can also expect an elevated New York experience from our Upper Stories collection of rooms and suites perched on our topmost guest floors.",
+      "highlights": ["Free WiFi","Private Parking","Non-smoking rooms","Fitness center","Restaurant","24-hour front desk","Bar"],
+      "name": "Thompson Central Park",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F1.jpg?alt=media&token=729bdf9e-3fb1-4dba-a90b-c6223a41f436","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F2.jpg?alt=media&token=173e5e4c-4505-44fa-abeb-072a88dc21dd","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ThompsonCentralPark%2F3.jpg?alt=media&token=bc2eec70-1361-492a-9653-752d65351926"],
+      "stars": 5
+    },
+    {
+      "_id": "214UPUFONZ13XFPK9WYCWZ9G",
+      "address": "Two East 55th Street at Fifth Avenue, Midtown East",
+      "cityName": "newyork",
+      "description": "With two onsite dining options, The St. Regis New York offers guests exclusive dining experiences. Rooms offer 24-hour butler service. This hotel is located 484 m from The Museum of Modern Art. The spacious guest rooms provide flat-screen cable TVs, seating areas with sofas and desks. They have mini-bars, refrigerators, bathrobes and safety deposit boxes. WiFi is available.The St. Regis New York offers guests a gym and business center. It provides meeting rooms, a beauty and florist shop.",
+      "highlights": ["Free WiFi","Private Parking","Non-smoking rooms","Fitness center","Restaurant","24-hour front desk","Bar"],
+      "name": "The St. Regis New York",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/StRegisNewYork%2F1.jpg?alt=media&token=a9c3ba42-155b-41c2-9ad1-6580301228dc","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/StRegisNewYork%2F2.jpg?alt=media&token=2f88fa83-cbb0-437b-83d8-57c2c588e61d","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/StRegisNewYork%2F3.jpg?alt=media&token=d3b2dcdb-d49c-4215-8df7-96431fd54a35"],
+      "stars": 5
+    },
+    {
+      "_id": "V4VM4KJ2Q2SVDV3YB9P4LGDL",
+      "address": "159 West 48th Street",
+      "cityName": "newyork",
+      "description": "In a prime location in New York, Hard Rock Hotel New York provides air-conditioned rooms, a fitness center, free WiFi and a restaurant. This 5-star hotel offers room service and a 24-hour front desk. Guests can use a bar.All guest rooms at the hotel are equipped with a flat-screen TV and a safety deposit box. A continental, American or vegetarian breakfast is available every morning at the property.",
+      "highlights": ["Free WiFi","Parking","Family rooms","Non-smoking rooms","Fitness center","24-hour front desk","Bar"],
+      "name": "Hard Rock Hotel New York",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HardRockNewYork%2F1.jpg?alt=media&token=38a7a767-3e31-455b-91d9-734f2105acac","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HardRockNewYork%2F2.jpg?alt=media&token=bd7f1db2-b13d-46fe-9487-f5997d8fbe69","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HardRockNewYork%2F3.jpg?alt=media&token=55e31169-46ca-426f-92fa-757656eba348"],
+      "stars": 5
+    },
+    {
+      "_id": "RDU6O6EANBRFNROW8IOPVC8S",
+      "address": "190 Allen Street, Lower East Side",
+      "cityName": "newyork",
+      "description": "Located in New York’s trendy Lower East Side, SIXTY LES features a seasonal rooftop pool, beer garden and sushi restaurant, 500 m from the New Museum. Free WiFi access is offered.Rooms with bespoke Jim Walrod interior design elements feature floor-to-ceiling windows, iconic photography by Lee Friedlander and gourmet snacks. Private bathrooms offer slate showers with rain showerheads, oversize bathrobes by Frette and complimentary luxury bath amenities by REN.",
+      "highlights": ["Free WiFi","Outdoor swimming pool","Family rooms","Non-smoking rooms","Fitness center","Restaurant","Bar"],
+      "name": "Sixty LES",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/SixtyLESNewYork%2F1.jpg?alt=media&token=cc0e30cc-732f-4066-bf0b-9e336a1a0b8a","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/SixtyLESNewYork%2F2.jpg?alt=media&token=0de4fa7a-5098-4783-973e-7294681916e2","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/SixtyLESNewYork%2F3.jpg?alt=media&token=00307998-93a6-4c21-bce2-b091309dd400"],
+      "stars": 4
+    },
+    {
+      "_id": "UGLY3WIFFEH7CHSBALEGBSCX",
+      "address": "180 Ludlow Street, Lower East Side",
+      "cityName": "newyork",
+      "description": "Featuring spectacular views of the skyscrapers and bridges of New York City, this hotel is located in the Lower East Side neighborhood of Manhattan. WiFi access is provided in each guestroom free of charge.Hardwood floors, handmade silk rugs and artisan-crafted Moroccan lamps are featured in every room at The Ludlow Hotel. A mini-bar featuring local products is also provided. The private bathroom, decked out in marble mosaics, includes a deep soaking bathtub and brass rain shower. A 24-hour front desk welcomes guests to the Ludlow Hotel, which provides a trellis-covered garden for relaxation. Guests can also grab a drink in the lobby bar and lounge, or use the 24-hour fitness center. Parking is available nearby.",
+      "highlights": ["Free WiFi","Facilities for disabled guests","Non-smoking rooms","Fitness center","Terrace","Bar","Room service"],
+      "name": "The Ludlow Hotel",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheLudlowHotelNewYork%2F1.jpg?alt=media&token=a9126ddf-5066-4282-9850-2e3066bd2ebc","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheLudlowHotelNewYork%2F2.jpg?alt=media&token=3908e9b0-b04b-40cc-a26a-009cbf8b504a","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheLudlowHotelNewYork%2F3.jpg?alt=media&token=f9526de3-b57c-48a7-983d-7a0c4698bab9"],
+      "stars": 4
+    },
+    {
+      "_id": "WJBQJCMTHH88RX6P3O5IQIGC",
+      "address": "112 West 25th Street, Chelsea",
+      "cityName": "newyork",
+      "description": "Located a 12-minute walk from Penn Station, Renaissance New York Chelsea Hotel offers 4-star accommodations in New York and features a terrace, a restaurant and a bar. Featuring a fitness center, the 4-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom. The property provides room service and a 24-hour front desk for guests. All guest rooms at the hotel are equipped with a flat-screen TV with cable channels and a safety deposit box. At Renaissance New York Chelsea Hotel all rooms come with bed linen and towels.Buffet and American breakfast options are available every morning at the accommodation.",
+      "highlights": ["Free WiFi","Parking","Non-smoking rooms","Fitness center","Restaurant","Bar","Room service"],
+      "name": "Renaissance New York Chelsea Hotel",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RenaissanceNewYorkChelseaHotel%2F1.jpg?alt=media&token=51a8c3fd-1931-47b3-8459-0fd0ea627ac1","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RenaissanceNewYorkChelseaHotel%2F2.jpg?alt=media&token=0d5d6516-f27d-46d7-b297-d60e0572d71f","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RenaissanceNewYorkChelseaHotel%2F3.jpg?alt=media&token=553b35c4-5bea-4f0d-87b6-cea2f8ae6984"],
+      "stars": 4
+    },
+    {
+      "_id": "I5JMSL7DDCGW05QZZADE9Q1V",
+      "address": "100 Front Street West, M5J 1E3",
+      "cityName": "toronto",
+      "description": "Boasting a skylit indoor pool and 3 on-site dining options, this hotel is located across the street from Union Station. The eco-friendly property is adjacent from an airport express train to Toronto Pearson International Airport, 18 mi away. An airport shuttle to Billy Bishop Toronto City Airport, 1.9 mi away, is also available.A flat-screen cable TV, mini-bar and a coffee maker are provided in each room at Fairmont Royal York. The spacious rooms include designer bath toiletries and robes. Touring the Fairmont’s historic ballroom, working out in the gym or shopping on site are just a sample of activities this hotel features. A concierge desk and a business center are offered for guest convenience. Wi-Fi and wired internet are available upon request with surcharge.",
+      "highlights": ["2 swimming pools","Private Parking","WiFi in all areas","Family rooms","Non-smoking rooms","Fitness center","Bar"],
+      "name": "Fairmont Royal York Hotel",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkHotelToronto%2F1.jpg?alt=media&token=bc4d0958-6eb5-4565-9c3f-0fd07b1485cc","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkHotelToronto%2F2.jpg?alt=media&token=9e12d728-4273-4f70-a38b-26f8dce7b2d2","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkHotelToronto%2F3.jpg?alt=media&token=3d4df326-05bd-4681-90c0-af4bf185f0b3"],
+      "stars": 5
+    },
+    {
+      "_id": "NBRFNROW8IOPVC8SUGLY3WIF",
+      "address": "4 Avenue Road, M5R 2E8",
+      "cityName": "toronto",
+      "description": "We look forward to welcoming guests back to the newly revamped Park Hyatt Toronto starting on September 15th, 2021.This is our guests' favorite part of Toronto, according to independent reviews",
+      "highlights": ["Free WiFi","Parking","Non-smoking rooms","Fitness center","Spa","Restaurant","Room service"],
+      "name": "Park Hyatt Toronto",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ParkHyattToronto%2F1.jpg?alt=media&token=f0ac1fb6-c52e-43b6-a531-bfd1d1df0370","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ParkHyattToronto%2F2.jpg?alt=media&token=4f65cb0e-1e47-4a7d-afa0-3ad4c82cefb4","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/ParkHyattToronto%2F3.jpg?alt=media&token=d44c2175-b2bc-4a82-a60a-94572a7adb33"],
+      "stars": 5
+    },
+    {
+      "_id": "FEH7CHSBALEGBSCXWJBQJCMT",
+      "address": "100 Front Street West Fairmont Gold Floor, M5J 1E3",
+      "cityName": "toronto",
+      "description": "Located in Toronto, a 18-minute walk from Sugar Beach, Fairmont Royal York Gold Experience has accommodations with a shared lounge, private parking and a bar. Offering a restaurant, the property also has free bikes, as well as an indoor pool and a fitness center. The property provides room service, a 24-hour front desk and currency exchange for guests. The hotel will provide guests with air-conditioned rooms with a desk, a coffee machine, a safety deposit box, a flat-screen TV and a private bathroom with a shower. At Fairmont Royal York Gold Experience rooms contain bed linen and towels.",
+      "highlights": ["2 swimming pools","Private Parking","WiFi in all areas","Non-smoking rooms","Fitness center","Spa","Restaurant"],
+      "name": "Fairmont Royal York Gold Experience",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkGoldExperienceToronto%2F1.jpg?alt=media&token=2f107642-f775-4fcc-a428-854e809fa318","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkGoldExperienceToronto%2F2.jpg?alt=media&token=c625a258-3fcd-4328-886f-fc76c80441ce","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontRoyalYorkGoldExperienceToronto%2F3.jpg?alt=media&token=6692f506-c3e4-4059-bf06-e8afc4d9f195"],
+      "stars": 5
+    },
+    {
+      "_id": "CNQSM3N9YVN1UOX5TSKAT8HR",
+      "address": "1 King Street West, M5H 1A1",
+      "cityName": "toronto",
+      "description": "Built in 1914, this downtown Toronto hotel blends historic charm and elegance with modern conveniences. St. Lawrence Market and the Hockey Hall of Fame are less than 10 minutes' walk away. Accommodations at this all-suite hotel are furnished with a variety of thoughtful amenities, including microwaves, refrigerators and coffeemakers. They also feature separate sleeping, dining and working areas.One King West Hotel and Residence has an on-site fitness center along with a restaurant and a bar.",
+      "highlights": ["Non-smoking rooms","Restaurant","Free WiFi","Private Parking","Room service","Fitness center","Bar"],
+      "name": "One King West Hotel and Residence",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/OneKingWestHotelandResidenceToronto%2F1.jpg?alt=media&token=d1034154-8c2d-4e45-9fe7-e45fd3437320","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/OneKingWestHotelandResidenceToronto%2F2.jpg?alt=media&token=8b4dd058-ca3e-4a15-8143-55ab0d93dd0c","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/OneKingWestHotelandResidenceToronto%2F3.jpg?alt=media&token=a3a660d3-b46b-43c3-a07d-7003fa15d103"],
+      "stars": 4
+    },
+    {
+      "_id": "EQHJ1TRN0YDTAEBJLWABIPL6",
+      "address": "249 Queen's Quay West, M5J 2N5",
+      "cityName": "toronto",
+      "description": "This harbourfront hotel in Toronto city center features on-site dining as well as a rooftop patio with a seasonal pool. A mini-fridge and coffee maker are included in each guest room. A large work desk and flat-screen TV are common to all rooms at Radisson Blu Downtown Toronto. A pool, harbor or city view may be featured in these rooms.Showcasing regional ingredients, Watermark Restaurant specializes in Canadian cuisine. Light snacks are served at Radisson Admiral’s Watermark Lounge, along with local beers and wines.A fitness center is among recreational facilities available at Radisson Blu Downtown Toronto.",
+      "highlights": ["Outdoor swimming pool","Parking on site","Free WiFi","Family rooms","Non-smoking rooms","Fitness center","Restaurant"],
+      "name": "Radisson Blu Downtown Toronto",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RadissonBluDowntownToronto%2F1.jpg?alt=media&token=77eafbc4-598d-47cc-9793-1cebeb53075a","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RadissonBluDowntownToronto%2F2.jpg?alt=media&token=9b6f2512-2b2a-4b9d-93b5-d4757de1b413","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/RadissonBluDowntownToronto%2F3.jpg?alt=media&token=55f263c8-9161-4182-b2c7-d73363422771"],
+      "stars": 4
+    },
+    {
+      "_id": "GT7LH9V2214UPUFONZ13XFPK",
+      "address": "37 King Street East, M5C 1E9",
+      "cityName": "toronto",
+      "description": "Featuring a bar, The Omni King Edward Hotel is located in the center of Toronto, a 14-minute walk from Sugar Beach. This 4-star hotel offers a concierge service and a tour desk. The property has room service, a 24-hour front desk and currency exchange for guests. The hotel will provide guests with air-conditioned rooms with a desk, a coffee machine, a safety deposit box, a flat-screen TV and a private bathroom with a shower. At The Omni King Edward Hotel rooms include bed linen and towels. A buffet, à la carte or continental breakfast is served at the property. At the accommodation you'll find a restaurant serving American and International cuisine. Vegetarian, vegan and dairy-free options can also be requested.",
+      "highlights": ["Parking on site","WiFi","Family rooms","Non-smoking rooms","Fitness center","Spa","Restaurant"],
+      "name": "The Omni King Edward Hotel",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheOmniKingEdwardHotelToronto%2F1.jpg?alt=media&token=449ba8ed-bb90-46bf-9534-feaa8353b979","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheOmniKingEdwardHotelToronto%2F2.jpg?alt=media&token=2353760f-c00a-4ee6-98d3-9ad63c9d6239","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheOmniKingEdwardHotelToronto%2F3.jpg?alt=media&token=74083a46-f1fe-4cc1-acca-cfefa17ace21"],
+      "stars": 4
+    },
+    {
+      "_id": "RP5K153BDN23AGDX8LZC81NT",
+      "address": "567 Hornby Street, V6C 2E8",
+      "cityName": "vancouver",
+      "description": "This Vancouver hotel offers an on-site restaurant and bar. Keurig coffee machine and refrigerator are included in each room. Vancouver Convention Center is 5 minutes’ walk away. A 42 flat-screen TV is offered in all rooms at Hotel Le Soleil by Executive Hotels. All rooms feature a separate living area and work desk. An private bathroom offers Luxury bath amenities, bathrobe, and slippers. Alouette Bistro borrows its culinary philosophies from the enduring dishes and methods of classic French bistros and invigorates them utilizing West Coast flavors. Hotel Le Soleil features an on-site cardio room. State of the art full fitness facility, with top-of-the-line cardio machines, free weights, functional training, and indoor lap pool. Located next to the hotel. We will be delighted to offer you a complimentary full access guest pass, please visit the Front Desk to obtain your passes. Guests must be 15 years of age or older to use the facilities.",
+      "highlights": ["Private Parking","Free WiFi","Non-smoking rooms","Restaurant","Room service","24-hour front desk","Bar"],
+      "name": "Hotel Le Soleil by Executive Hotels",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HotelLeSoleilbyExecutiveHotels%2F1.jpg?alt=media&token=b35d8cfa-9ea9-498e-a318-83f19f751ef5","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HotelLeSoleilbyExecutiveHotels%2F2.jpg?alt=media&token=5e9be9c9-d20e-4a16-970d-561bb56f3458","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/HotelLeSoleilbyExecutiveHotels%2F3.jpg?alt=media&token=bf0bb03c-1bb5-433e-a6de-1306c4a39a7b"],
+      "stars": 5
+    },
+    {
+      "_id": "USWLHM7GFQTVP6HC1OQ4OR08",
+      "address": "900 W. Georgia Street, V6C 2W6",
+      "cityName": "vancouver",
+      "description": "Located in Vancouver city center, this hotel offers an on-site restaurant and bar. A flat-screen cable TV is offered in each room. Vancouver City Center Skytrain station is 5 minutes’ walk away. Tea and coffee-making facilities are offered in all guest rooms at The Fairmont Hotel Vancouver. Each air-conditioned room features a mini-bar. Select rooms offer city views.Located in the lobby, Notch8 Restaurant & Bar offers internationally inspired cuisine featuring local produce. The Health Club at Fairomont Vancouver is open 24 hours a day and offers spa and sauna facilities. Guests can enjoy the indoor swimming pool. A business center is located on-site for guest convenience.",
+      "highlights": ["Indoor swimming pool","Parking on site","WiFi in all areas","Family rooms","Non-smoking rooms","Fitness center","Spa"],
+      "name": "Fairmont Hotel Vancouver",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontHotelVancouver%2F1.jpg?alt=media&token=07d16287-2ee2-4a7c-b2a7-279001f35965","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontHotelVancouver%2F2.jpg?alt=media&token=03393bdb-7c83-4739-8609-a363708269ea","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontHotelVancouver%2F3.jpg?alt=media&token=7b4b526f-864d-44c8-a056-27ce1ca1d6ec"],
+      "stars": 5
+    },
+    {
+      "_id": "MVNDWBBUHTKM4NUQ31GWD74D",
+      "address": "900 Canada Place Way, V6C 3L5",
+      "cityName": "vancouver",
+      "description": "Featuring an outdoor heated pool, this hotel is connected to the Vancouver Convention Center and Canada Place Cruise Ship Terminal. Vancouver’s Gastown is just 5 minutes’ walk away. Each room at The Fairmont Waterfront contains contemporary décor. The rooms are furnished with flat-screen TVs, a mini-bar and in-room safes. Bathrobes are also provided along with coffee and tea facilities. ARC Food & Drink offers fresh, local, and handcrafted cuisine for breakfast, lunch and dinner. An on-site health club with a modern gym and a hot tub are provided at the Vancouver Fairmont Waterfront. Steam rooms are available and guests can sit on the pool patio which offers views of the harbor and mountains.",
+      "highlights": ["Outdoor swimming pool","Private Parking","WiFi","Family rooms","Non-smoking rooms","Fitness center","Restaurant"],
+      "name": "Fairmont Waterfront",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontWaterfront%2F1.jpg?alt=media&token=d502ae0a-7f8f-4576-9caf-47042a25dcf2","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontWaterfront%2F2.jpg?alt=media&token=4408ba3a-5657-4fb4-9fa3-dcb7bfaa965e","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/FairmontWaterfront%2F3.jpg?alt=media&token=92256097-c9a1-4275-a4c8-551f0f193964"],
+      "stars": 5
+    },
+    {
+      "_id": "L8CPVOA6769Z38K22D682J4P",
+      "address": "788 Richards Street, V6B 3A4",
+      "cityName": "vancouver",
+      "description": "Offering a heated outdoor lap pool and hot tub, L'Hermitage Hotel includes rooms with a flat-screen TV. Vancouver City Center SkyTrain is 300 m away. Rogers Arena is 10 minutes’ walk from this Vancouver hotel. An iPod docking station and free WiFi are provided in the rooms at L’Hermitage Hotel. All rooms include luxury bathrobes and an Italian marble bathroom. Select rooms include a fireplace and a sofa bed. Guests at the L’Hermitage can relax on the garden patio or work in the business center, which includes a library. The hotel also offers a 24-hour gym. The L’Hermitage offers concierge services with information on area events and attractions.",
+      "highlights": ["Outdoor swimming pool","Non-smoking rooms","Restaurant","Free WiFi","Private Parking","Room service","Bar"],
+      "name": "L'Hermitage Hotel",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/L'HermitageHotel%2F1.jpg?alt=media&token=a1ea35c8-db43-40bf-9e7f-1dc9e471ab03","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/L'HermitageHotel%2F2.jpg?alt=media&token=be022d77-8932-4ab0-9416-c09326aa9ebd","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/L'HermitageHotel%2F3.jpg?alt=media&token=71f358b0-8829-4087-b4dd-80d9b8e9fa30"],
+      "stars": 4
+    },
+    {
+      "_id": "GEUIQURZBCRSYF1MXJO16ZLI",
+      "address": "475 Howe Street, V6B 2B3",
+      "cityName": "vancouver",
+      "description": "Located within 200 m of Waterfront Center Mall Vancouver and Vancouver Lookout at Harbor Center, EXchange Hotel Vancouver features rooms with air conditioning. Free WiFi is available. Hydra Estiatorio Mediterranean & Bar is a Greek seafood restaurant with an engaging and lively 40-foot cocktail bar. Hydra applies Greece’s time-honored ingredients with traditional cooking styles, focusing on quality Mediterranean dishes . The stylish ambiance of this glass enclosed space is perfect to enjoy throughout the day and evening and has expansive seating options; ideal for events of any size.",
+      "highlights": ["Non-smoking rooms","Restaurant","Free WiFi","Private Parking","Room service","Fitness center","Bar"],
+      "name": "EXchange Hotel Vancouver",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/EXchangeHotelVancouver%2F1.jpg?alt=media&token=e6876c23-6de9-4b1c-b143-0988f1293725","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/EXchangeHotelVancouver%2F2.jpg?alt=media&token=8bb96d74-3fa1-4371-a220-0250600a3bcf","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/EXchangeHotelVancouver%2F3.jpg?alt=media&token=8120f79a-ec1f-4233-ad9d-20454f4debfe"],
+      "stars": 4
+    },
+    {
+      "_id": "IHKA5AVE4FHJEVF0PMETMFPW",
+      "address": "1601 Bayshore Drive, V6G 2V4",
+      "cityName": "vancouver",
+      "description": "The Westin Bayshore, Vancouver is in perfect balance with its breathtaking urban and natural surroundings. An elegant base to explore Vancouver, this waterfront resort-style property is a hub of well-being. Direct access to the Vancouver Seawall and iconic Stanley Park, a variety of signature wellness programs, outdoor (heated) and indoor pool, and an on-site spa promote a feeling of excellence, amid food and beverage offerings that recharge body and mind.",
+      "highlights": ["2 swimming pools","Parking on site","Free WiFi","Family rooms","Non-smoking rooms","Fitness center","Bar"],
+      "name": "The Westin Bayshore, Vancouver",
+      "images": ["https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheWestinBayshoreVancouver%2F1.jpg?alt=media&token=3c3ce1e2-33bc-4ad0-89d7-1ab9ca0a4cd8","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheWestinBayshoreVancouver%2F2.jpg?alt=media&token=113527e3-e3d1-4a6a-b20f-b76e362e9267","https://firebasestorage.googleapis.com/v0/b/hotel-24-firebase.appspot.com/o/TheWestinBayshoreVancouver%2F3.jpg?alt=media&token=150bfec1-46df-407b-8d58-7792bee7a5b1"],
+      "stars": 4
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://Vladyslav:A85rOmniR83ZwEBD@cluster0.u2hgdbx.mongodb.net/hotel-24?retryWrites=true&w=majority",
+    "accessSecret":"accessFromBackend",
+    "refreshSecret":"refreshKey"
+}
