@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getAuthErrors, signUp } from "../../store/users";
 import { registerSchema } from "../../utils/registerSchema";
@@ -24,23 +24,22 @@ const RegisterForm = () => {
     }));
   };
 
-  const validate = () => {
+  const validate = useCallback((data) => {
     registerSchema
       .validate(data)
       .then(() => setErrors({}))
       .catch((err) => setErrors({ [err.path]: err.message }));
     return Object.keys(errors).length === 0;
-  };
+  }, []);
 
   useEffect(() => {
-    validate();
+    validate(data);
   }, [data]);
 
   const isValid = Object.keys(errors).length === 0;
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const isValid = validate();
     if (!isValid) return;
     dispatch(signUp(data));
   };
@@ -48,7 +47,7 @@ const RegisterForm = () => {
   return (
     <>
       <FormWrapper>
-        <form className="space-y-6" onSubmit={handleSubmit} noValidate>
+        <form className="space-y-6" onSubmit={handleSubmit}>
           <TextField
             label="Name"
             id="name"

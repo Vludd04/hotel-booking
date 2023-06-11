@@ -12,7 +12,7 @@ const Logo = () => {
     <div className="flex flex-col cursor-pointer pl-4" onClick={handleClick}>
       <img
         className="hidden h-14 w-auto lg:block"
-        src={require("../../img/Hotel24.jpg")}
+        src={require("../../../assets/Hotel24.jpg")}
         alt="Hotel 24 Logo"
       />
     </div>

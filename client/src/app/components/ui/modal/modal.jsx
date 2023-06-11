@@ -1,8 +1,9 @@
 import React from "react";
+import { createPortal } from "react-dom";
 import "./modal.css";
 
 const Modal = ({ active, setActive, children }) => {
-  return (
+  return createPortal(
     <div
       className={active ? "modal active" : "modal"}
       onClick={() => setActive(false)}
@@ -13,7 +14,8 @@ const Modal = ({ active, setActive, children }) => {
       >
         {children}
       </div>
-    </div>
+    </div>,
+    document.getElementById("modal")
   );
 };
 
