@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useLocation } from "react-router-dom";
 import { getAuthErrors, logIn } from "../../store/users";
@@ -21,16 +21,16 @@ const LoginForm = () => {
     }));
   };
 
-  const validate = () => {
+  const validate = useCallback((data) => {
     signInSchema
       .validate(data)
       .then(() => setErrors({}))
       .catch((err) => setErrors({ [err.path]: err.message }));
     return Object.keys(errors).length === 0;
-  };
+  }, []);
 
   useEffect(() => {
-    validate();
+    validate(data);
   }, [data]);
 
   const isValid = Object.keys(errors).length === 0;
@@ -40,7 +40,6 @@ const LoginForm = () => {
     const redirect = location.state
       ? location.state.referrer.pathname
       : "/cities";
-    const isValid = validate();
     if (!isValid) return;
     dispatch(logIn({ payload: data, redirect }));
   };
@@ -48,7 +47,7 @@ const LoginForm = () => {
   return (
     <>
       <FormWrapper>
-        <form className="space-y-6" onSubmit={handleSubmit} noValidate>
+        <form className="space-y-6" onSubmit={handleSubmit}>
           <TextField
             label="Email"
             id="email"

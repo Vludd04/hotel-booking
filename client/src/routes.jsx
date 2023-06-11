@@ -1,5 +1,5 @@
 import { Navigate } from "react-router-dom";
-import Main from "./app/layouts/main";
+import MainPage from "./app/components/page/mainPage";
 import AuthLayout from "./app/layouts/authLayout";
 import CitiesLayout from "./app/layouts/citiesLayout";
 import BookedRoomsLayout from "./app/layouts/bookedRoomsLayout";
@@ -18,7 +18,7 @@ import LogOut from "./app/components/ui/logOut";
 const routes = () => [
   {
     path: "/",
-    element: <Main />,
+    element: <MainPage />,
   },
   {
     path: "auth",

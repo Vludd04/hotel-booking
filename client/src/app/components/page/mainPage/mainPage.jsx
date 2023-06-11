@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const CTA = () => {
+const MainPage = () => {
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8">
@@ -36,15 +36,15 @@ const CTA = () => {
                 to="cities"
                 className="transition hover:-translate-y-1 hover:scale-110 hover:bg-gray-300 duration-300 rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
               >
-                Select city
+                Select a city
               </Link>
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
             <img
               className="rounded-md bg-white/5 ring-1 ring-white/10"
-              src={require("../../img/CTA.jpg")}
-              alt="CTA"
+              src={require("../../../../assets/NewYorkImage.jpg")}
+              alt="Image of New York"
               width={1824}
               height={1080}
             />
@@ -55,4 +55,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default MainPage;

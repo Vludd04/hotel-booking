@@ -7,7 +7,7 @@ import { Provider } from "react-redux";
 import CustomRouter from "./app/utils/customRouter";
 import history from "./app/utils/history";
 
-export const store = createStore();
+const store = createStore();
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

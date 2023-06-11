@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { getCurrentUserData, updateUser } from "../../../store/users";
@@ -14,7 +14,7 @@ const ProfilePage = () => {
   const [input, setInput] = useState(false);
 
   useEffect(() => {
-    validate();
+    validate(data);
   }, [data]);
 
   const handleShowInput = () => {
@@ -32,16 +32,17 @@ const ProfilePage = () => {
     name: yup.string().required("Name is required"),
   });
 
-  const validate = () => {
+  const validate = useCallback((data) => {
     editUserSchema
       .validate(data)
       .then(() => setErrors({}))
       .catch((err) => setErrors({ [err.path]: err.message }));
     return Object.keys(errors).length === 0;
-  };
+  }, []);
+
+  const isValid = Object.keys(errors).length === 0;
 
   const handleSubmit = () => {
-    const isValid = validate();
     if (!isValid) return;
     dispatch(updateUser({ ...data }));
     setInput((prevState) => !prevState);
