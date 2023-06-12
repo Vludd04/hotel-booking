@@ -15,7 +15,7 @@ Project is created with:
 You can use Docker to run this project:
 
 ```
-$ docker build -t hotel-24 .
-$ docker run -d -p 8080:8080 --name hotel-24 --rm hotel-24  
+docker build -t hotel-24 .
+docker run -d -p 8080:8080 --name hotel-24 --rm hotel-24  
 
 ```
